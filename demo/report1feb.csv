@@ -1,0 +1,15 @@
+,date,id,name,first_punch,last_punch,spent,deficiency,percentile,remarks,emotion
+0,2021-02-01,102,Mahfuzul Alam,13:25:29,13:25:57,00:00:27,07:59:33,0,Half Day,happy
+1,2021-02-01,105,Arif Raihan,13:25:44,13:25:44,00:00:00,08:00:00,0,Half Day,sad
+2,2021-02-01,1002,Tania Akter,12:14:40,13:14:01,00:59:21,07:00:39,12,Late,neutral
+3,2021-02-01,1003,Mohammad Golam Kibria,12:42:26,13:25:44,00:43:17,07:16:43,9,Late,sad
+4,2021-02-01,1004,Ruhul Azam,11:26:53,11:26:55,00:00:01,07:59:59,0,Normal,happy
+5,2021-02-01,1005,Anamul Habib,13:20:46,13:37:34,00:16:47,07:43:13,3,Half Day,neutral
+6,2021-02-01,1007,Umme Hani,11:26:06,11:26:08,00:00:01,07:59:59,0,Normal,neutral
+7,2021-02-01,1011,Md. Hamiduzzaman,12:33:24,12:33:27,00:00:03,07:59:57,0,Late,fear
+8,2021-02-01,1014,Ahnaf Serniabat,11:31:28,13:48:47,02:17:19,05:42:41,28,Late,neutral
+9,2021-02-01,1015,Zarraf Ahmed,12:10:53,13:25:45,01:14:51,06:45:09,15,Late,neutral
+10,2021-02-01,1017,Monir Ahmed,11:51:35,11:51:37,00:00:01,07:59:59,0,Late,neutral
+11,2021-02-01,1018,Sabbir Ahmed,12:10:30,14:11:29,02:00:58,05:59:02,25,Late,sad
+12,2021-02-01,1019,Imran hossain,11:40:46,11:40:48,00:00:02,07:59:58,0,Late,neutral
+13,2021-02-01,20201,Shakhaout Hossain Shakib,12:01:07,13:18:15,01:17:08,06:42:52,16,Late,neutral
